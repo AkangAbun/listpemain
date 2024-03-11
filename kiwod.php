@@ -19,8 +19,6 @@ $desc = deskripsi(
 				"Jelajahi beragam jenis permainan slot gacor Indonesia dan temukan daftar games terbaik untuk dimainkan di situs-situs resmi dan terpercaya.",
 				"Amankan peluang Anda untuk meraih jackpot maxwin slot dengan mempelajari strategi terbaik yang telah teruji. Temukan tips dan triknya di sini!",
 				);
-
-echo json_encode($title);
 ?>
 
 </body>
